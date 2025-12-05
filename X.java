@@ -7,7 +7,6 @@ public static class persona {
     int edad;
 
     public persona(){                            //este es un constructor sin parametros.
-
       }
 
       public persona(int edad, String nombre, String apellido){   //este es un cosntructor con parametros.

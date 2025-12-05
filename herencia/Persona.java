@@ -64,4 +64,17 @@ public class Persona {
     }
 
 
+
+
+    //metodos
+
+    public void mostarNombre(){
+        
+        String nombre = "julio";
+
+        System.out.println("mi nombre es: " +  nombre);
+
+
+    }
+
 }
